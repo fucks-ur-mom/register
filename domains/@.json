@@ -6,7 +6,8 @@
         "discord": "devmatei"
     },
     "record": {
-        "A": ["75.2.60.5"]
+        "A": ["75.2.60.5"],
+        "TXT": "vyntr-verify=1745591104720-httpsfucksurmom-ljismnidbfn"
     },
     "proxied": true
 }
