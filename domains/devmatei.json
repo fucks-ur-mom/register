@@ -8,5 +8,5 @@
     "record": {
         "A": ["89.106.200.1"]
     },
-    "proxied": "false"
+    "proxied": true
 }
