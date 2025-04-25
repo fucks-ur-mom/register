@@ -34,10 +34,6 @@ This project provides a simple way to register a subdomain by submitting a JSON 
     "CNAME": "example.com",
     "MX": ["mx1.example.com", "mx2.example.com"],
     "TXT": ["example_verification=1234567890"],
-    "CAA": [
-      { "flags": 0, "tag": "issue", "value": "letsencrypt.org" },
-      { "flags": 0, "tag": "issuewild", "value": "sectigo.com" }
-    ],
     "SRV": [
       { "priority": 10, "weight": 60, "port": 5060, "target": "sipserver.example.com" },
       { "priority": 20, "weight": 10, "port": 5061, "target": "sipbackup.example.com" }
