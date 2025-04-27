@@ -5,6 +5,6 @@
         "discord": "hn1f."
     },
     "record": {
-        "CNAME": ["hn1f.duckdns.org"]
+        "CNAME": "hn1f.duckdns.org"
     }
 }
