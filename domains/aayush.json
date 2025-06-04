@@ -4,7 +4,7 @@
     "discord": "aayu5h"
   },
   "record": {
-    "A": ["69.30.249.53"]
+    "CNAME": "webbuster.pages.dev"
   },
-  "proxied": false
+  "proxied": true
 }
