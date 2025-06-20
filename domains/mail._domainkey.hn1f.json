@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "hn1f",
+        "email": "kimsfavoritecampvictim@gmail.com",
+        "discord": "hn1f."
+    },
+    "record": {
+        "TXT": [
+            "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3vIE6ydLlX04wd0hkZmXNpN/0xyNiLk20lEyIljrHNdpuf3Jot2UZSzVHf8OAw+gAxwy7ngACIfp059ShKhjRSCsNeHft6D1w24fgHtJbCDDyMTbPGqZdipANdeL2/ufwFqfBPwMqIEdbUepWpRFbVX6qZRMDTR8zEVwPCoVGzVWMVkPagYgvHrsjk0esz387O/EQPQhJ+wzd/pxpqjpqxpSFX5Kb0ueVX863G7l7CI2Bdxoqj9fH9411bUnzRnMvNeXnuTy4ZMPZeWtMZu86/IHkjxfjleamLB2bGTb9tZ5v/wHDfcHkvKZE/WA94PnhOtdubhDGho50lRRamrGmwIDAQAB"
+        ]
+    }
+}
