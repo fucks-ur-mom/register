@@ -6,7 +6,6 @@
     },
     "record": {
         "A": ["85.14.75.109"],
-        "CNAME": "hn1f.duckdns.org",
         "MX": ["85-14-75-109.static.akk.net.pl"],
         "TXT": [
             "v=spf1 mx ip4:85.14.75.109 ~all"
