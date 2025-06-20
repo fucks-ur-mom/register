@@ -5,10 +5,8 @@
         "discord": "hn1f."
     },
     "record": {
-        "A": ["85.14.75.109"],
-        "MX": ["85-14-75-109.static.akk.net.pl"],
         "TXT": [
-            "v=spf1 mx ip4:85.14.75.109 ~all"
+            "v=DMARC1; p=reject; rua=mailto:dmarc@hn1f.fucks-ur.mom; fo=1"
         ]
     }
 }
