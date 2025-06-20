@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "hn1f",
+        "email": "kimsfavoritecampvictim@gmail.com",
+        "discord": "hn1f."
+    },
+    "record": {
+        "TXT": [
+            "v=DMARC1; p=reject; rua=mailto:dmarc@hn1f.fucks-ur.mom; fo=1"
+        ]
+    }
+}
